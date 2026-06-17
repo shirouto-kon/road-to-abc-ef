@@ -2,6 +2,9 @@
 CLAUDE.md
 .claude/
 
+# --- contest solutions (local only, do not commit) ---
+contest_solution/
+
 # --- C++ build artifacts ---
 *.o
 *.obj
