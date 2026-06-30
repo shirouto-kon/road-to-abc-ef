@@ -2,8 +2,11 @@
 CLAUDE.md
 .claude/
 
-# --- contest solutions (local only, do not commit) ---
-contest_solution/
+# dir for me
+solution/
+solved/
+templates/
+note/
 
 # --- C++ build artifacts ---
 *.o
@@ -65,3 +68,6 @@ Makefile
 *.tmp
 Thumbs.db
 .DS_Store
+
+# --bat--
+*.bat
